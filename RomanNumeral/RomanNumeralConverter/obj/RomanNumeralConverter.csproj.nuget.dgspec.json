@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/TestProject1/RomanNumeralConverter/RomanNumeralConverter.csproj": {}
+    "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/RomanNumeral/RomanNumeralConverter/RomanNumeralConverter.csproj": {}
   },
   "projects": {
-    "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/TestProject1/RomanNumeralConverter/RomanNumeralConverter.csproj": {
+    "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/RomanNumeral/RomanNumeralConverter/RomanNumeralConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/TestProject1/RomanNumeralConverter/RomanNumeralConverter.csproj",
+        "projectUniqueName": "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/RomanNumeral/RomanNumeralConverter/RomanNumeralConverter.csproj",
         "projectName": "RomanNumeralConverter",
-        "projectPath": "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/TestProject1/RomanNumeralConverter/RomanNumeralConverter.csproj",
+        "projectPath": "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/RomanNumeral/RomanNumeralConverter/RomanNumeralConverter.csproj",
         "packagesPath": "/Users/danchoiniere/.nuget/packages/",
-        "outputPath": "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/TestProject1/RomanNumeralConverter/obj/",
+        "outputPath": "/Users/danchoiniere/RiderProjects/TDD.UnitTesting/RomanNumeral/RomanNumeralConverter/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
