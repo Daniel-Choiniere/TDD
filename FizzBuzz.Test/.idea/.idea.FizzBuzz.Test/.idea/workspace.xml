@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f9b0e1ae-bd1b-4f13-afb6-b98e4a7c3317" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FizzBuzz.Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FizzBuzz.Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz.Test/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz.Test/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz.Test/bin/Debug/netcoreapp3.0/FizzBuzz.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz.Test/bin/Debug/netcoreapp3.0/FizzBuzz.Test.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz.Test/bin/Debug/netcoreapp3.0/FizzBuzz.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz.Test/bin/Debug/netcoreapp3.0/FizzBuzz.Test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz.Test/bin/Debug/netcoreapp3.0/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz.Test/bin/Debug/netcoreapp3.0/nunit_random_seed.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz.Test/obj/Debug/netcoreapp3.0/FizzBuzz.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz.Test/obj/Debug/netcoreapp3.0/FizzBuzz.Test.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz.Test/obj/Debug/netcoreapp3.0/FizzBuzz.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz.Test/obj/Debug/netcoreapp3.0/FizzBuzz.Test.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TDD_Examples" beforeDir="false" afterPath="$PROJECT_DIR$/../TDD_Examples" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570828884108</updated>
       <workItem from="1570828885280" duration="1306000" />
-      <workItem from="1570883256302" duration="2563000" />
+      <workItem from="1570883256302" duration="3544000" />
     </task>
     <servers />
   </component>

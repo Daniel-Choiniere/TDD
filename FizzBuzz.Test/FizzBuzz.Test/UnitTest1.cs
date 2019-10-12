@@ -2,13 +2,7 @@ using NUnit.Framework;
 
 namespace FizzBuzz.Test
 {
-   
-    /*
-     * If divisible by 3       -> return "Fizz"
-     * If divisible by 5       -> return "Buzz"
-     * If divisible by 3 and 5 -> return "FizzBuzz"
-     * Otherwise               -> return ""
-     */
+    
     [TestFixture]
     public class FizzBuzz
     {
@@ -23,7 +17,7 @@ namespace FizzBuzz.Test
             Assert.AreEqual(expected, FizzBuzzTests(number));
         }
         
-        private string FizzBuzzTests(int number)
+        private static string FizzBuzzTests(int number)
         {
             if (number % 3 == 0 && number % 5 == 0)
             {
@@ -33,7 +27,8 @@ namespace FizzBuzz.Test
             {
                 return "Fizz";
             }
-            else if (number % 5 == 0)
+
+            if (number % 5 == 0)
             {
                 return "Buzz";
             }
